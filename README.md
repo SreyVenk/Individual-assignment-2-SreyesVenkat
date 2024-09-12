@@ -5,5 +5,8 @@ MAC OS users may need to change the permissions (chmod -R 777 path/to/project/fo
 Make sure jdk versions match.
 Run the main method.
 
+# API Name
+I used MarketStack API which gets stock market info.
+
 # On POSTMAN:
 http://localhost:8080/stocks (GET)
