@@ -6,4 +6,4 @@ Make sure jdk versions match.
 Run the main method.
 
 # On POSTMAN:
-http://localhost:8080/stocks
+http://localhost:8080/stocks (GET)
